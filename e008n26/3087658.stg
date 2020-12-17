@@ -1,0 +1,5 @@
+OBJECT_BASE 3087658.btg
+OBJECT DAAP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.608402 26.722879 540.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.634674 26.722408 543.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.618804 26.719069 543.5 0.00
